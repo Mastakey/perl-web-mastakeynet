@@ -1,0 +1,153 @@
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Fri May 11 15:19:18 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Fri May 11 15:19:18 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:34:35 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:34:35 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:35:16 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:35:16 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:41:23 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:41:23 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:43:26 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:43:26 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:43:40 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:43:40 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:44:07 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:44:07 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:48:14 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:48:14 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:49:23 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 14:49:23 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:00:45 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:00:45 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:05:06 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:05:06 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:18:08 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:18:08 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:19:55 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:19:55 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:22:36 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:22:36 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:24:09 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:24:09 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:25:27 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:25:27 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:26:21 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:26:21 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:34:07 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 15:34:07 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:03:14 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:03:14 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:23:54 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:23:54 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:24:41 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:24:41 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:24:59 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:24:59 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:25:27 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:25:27 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:25:46 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:25:46 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:43:21 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:43:21 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:49:59 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:49:59 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:50:13 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:50:13 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:51:11 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:51:11 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:52:12 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:52:12 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:52:30 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:52:30 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:52:48 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:52:48 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:53:04 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:53:04 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:55:24 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:55:24 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:55:44 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:55:44 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:56:13 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:56:13 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:57:04 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:57:04 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:57:25 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:57:25 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:58:24 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:58:24 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:59:12 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:59:12 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:59:29 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:59:29 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:59:44 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 16:59:44 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:00:58 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:00:58 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:04:13 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:04:13 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:04:42 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:04:42 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:05:15 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:05:15 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:05:29 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:05:29 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:06:22 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:06:22 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:08:03 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:08:03 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:08:53 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:08:53 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:12:35 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:12:35 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Thu Jun  7 17:36:25 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Thu Jun  7 17:36:25 2012

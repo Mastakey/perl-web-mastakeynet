@@ -1,0 +1,14 @@
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\automation>cd ..\web\ 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl dbcon.pl 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl index.pl 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl kb.pl 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl projects.pl 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl resume.pl 
+
+C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl techosophy.pl 

@@ -151,3 +151,9 @@ Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Tue May 15 17:12
 Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Thu Jun  7 17:36:25 2012
 SELECT ID, NAME FROM SKELETON
 Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Thu Jun  7 17:36:25 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Fri Jul 13 14:54:24 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Fri Jul 13 14:54:24 2012
+Connected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Fri Jul 13 15:02:11 2012
+SELECT ID, NAME FROM SKELETON
+Disconnected to dbi:SQLite:dbname=../../db/data/skeleton.db: at Fri Jul 13 15:02:11 2012

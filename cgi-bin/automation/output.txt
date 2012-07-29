@@ -1,14 +1,14 @@
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\automation>cd ..\web\ 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\automation>cd ..\web\ 
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl dbcon.pl 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\web>perl dbcon.pl 
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl index.pl 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\web>perl index.pl 
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl kb.pl 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\web>perl kb.pl 
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl projects.pl 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\web>perl projects.pl 
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl resume.pl 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\web>perl resume.pl 
 
-C:\Users\khan\Desktop\Experian\Scripts\web\mastakey\cgi-bin\web>perl techosophy.pl 
+C:\Documents and Settings\khan\Desktop\mastakey-github\perl-web-mastakeynet\cgi-bin\web>perl techosophy.pl 
